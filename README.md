@@ -49,7 +49,6 @@ body {
   height: 100vh;
   justify-content: center;
 }
-}
 ```
 
 ### Continued development
